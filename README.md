@@ -1,1 +1,1 @@
-# odin-recipes
+Making a website that will contain a main index page which will have links to a few recipies.Gain the skill of using the <a>, <p>, <ul>, <ol> and <li> tags
